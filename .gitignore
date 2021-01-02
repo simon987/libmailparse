@@ -1,0 +1,10 @@
+.idea/
+cmake-build-debug
+CMakeFiles
+Testing
+cmake_install.cmake
+CMakeCache.txt
+*.a
+*.cbp
+mailparse_test
+Makefile
